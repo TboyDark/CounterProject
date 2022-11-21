@@ -17,7 +17,7 @@ Questo è il progetto di un semplice contatore, che ho creato per il percorso Ja
 ## Uso/Esempi
 
 Devi solamente accedere alla pagina [https://tboydarkcounter.netlify.app](https://tboydarkcounter.netlify.app/) per poter provare il contatore.
-Quando si è entrati nella pagina web, basta **+** per aumentare e **-** per diminuire il contatore.
+Quando si è entrati nella pagina web, basta premere **+** per aumentare e **-** per diminuire il contatore.
 
 
 ## Altre info
